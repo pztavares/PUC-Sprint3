@@ -1,2 +1,2 @@
-# PUC-Sprint3
-Engenharia de Dados
+O objetivo deste estudo é conhecer a representatividade mundial feminina no ensino de graduação nas áreas STEM. Para isso, a pesquisadora buscou dados sobre educação de nível superior de mulheres em diversas áreas profissionais pelo mundo. Além disso, realizou cruzamentos de dados com algumas características sociais e financeiras dos países, a fim de analisar tendências de como esse fenômeno ocorre.
+
